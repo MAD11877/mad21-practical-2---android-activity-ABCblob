@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "sg.edu.np.mad.prac2ver2"
+        applicationId "sg.edu.np.mad.prac2ver3"
         minSdk 21
         targetSdk 32
         versionCode 1
